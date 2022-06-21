@@ -1,5 +1,9 @@
 # Spring data Mongodb
 
+项目移至：
+
+> https://github.com/Kyo-w/mongodb-HelloWorld
+
 ​	@Qeury和@Aggregation可导致RCE
 
 ```
