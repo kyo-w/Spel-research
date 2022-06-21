@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ab9f462-6252-4afd-882d-50f8e570ee41" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\javaWork\openrepository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../javaWork/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\javaWork\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AEPQcrAyH8fCAmqetLTq36P62F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8 (5)" />
+    <property name="last_opened_file_path" value="E:/springCore" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\webroots\spring-cloud-stream\produ\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ProduApplicationTests.contextLoads">
+    <configuration name="ProduApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="produ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.produ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.produ" />
+      <option name="MAIN_CLASS_NAME" value="com.example.produ.ProduApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="demo1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="demo1" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.consumer.ConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo1.Demo1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProduApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="produ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.produ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.produ.ProduApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="server01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.server01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.server01.Server01Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="server02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.server02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.server02.Server02Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ProduApplicationTests.contextLoads" />
+      <item itemvalue="Spring Boot.Demo1Application" />
+      <item itemvalue="Spring Boot.Server01Application" />
+      <item itemvalue="Spring Boot.Server02Application" />
+      <item itemvalue="Spring Boot.ProduApplication" />
+      <item itemvalue="Spring Boot.ConsumerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProduApplicationTests.contextLoads" />
+        <item itemvalue="Spring Boot.ProduApplication" />
+        <item itemvalue="Spring Boot.ConsumerApplication" />
+        <item itemvalue="Spring Boot.Server02Application" />
+        <item itemvalue="Spring Boot.Server01Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ab9f462-6252-4afd-882d-50f8e570ee41" name="Default Changelist" comment="" />
+      <created>1654571755214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654571755214</updated>
+      <workItem from="1654571756643" duration="2066000" />
+      <workItem from="1654613311571" duration="309000" />
+      <workItem from="1654669264275" duration="2684000" />
+      <workItem from="1654671999812" duration="7089000" />
+      <workItem from="1654685816845" duration="2218000" />
+      <workItem from="1655275829845" duration="822000" />
+      <workItem from="1655278597899" duration="15149000" />
+      <workItem from="1655345077904" duration="755000" />
+      <workItem from="1655789401962" duration="408000" />
+      <workItem from="1655792707948" duration="170000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1655281023945">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="96" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.752@0.0.1280.752" timestamp="1655281023945" />
+    <state x="396" y="78" key="#xdebugger.evaluate" timestamp="1655303027075">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="396" y="78" key="#xdebugger.evaluate/0.0.1280.752@0.0.1280.752" timestamp="1655303027075" />
+    <state width="682" height="438" key="DebuggerActiveHint" timestamp="1655303832571">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="682" height="438" key="DebuggerActiveHint/0.0.1280.752@0.0.1280.752" timestamp="1655303832571" />
+    <state x="420" y="117" key="FileChooserDialogImpl" timestamp="1654672098989">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="420" y="117" key="FileChooserDialogImpl/0.0.1280.752@0.0.1280.752" timestamp="1654672098989" />
+    <state width="1238" height="472" key="GridCell.Tab.0.bottom" timestamp="1655345839258">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1238" height="472" key="GridCell.Tab.0.bottom/0.0.1280.752@0.0.1280.752" timestamp="1655345839258" />
+    <state width="1238" height="472" key="GridCell.Tab.0.center" timestamp="1655345839258">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1238" height="472" key="GridCell.Tab.0.center/0.0.1280.752@0.0.1280.752" timestamp="1655345839258" />
+    <state width="1238" height="472" key="GridCell.Tab.0.left" timestamp="1655345839257">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1238" height="472" key="GridCell.Tab.0.left/0.0.1280.752@0.0.1280.752" timestamp="1655345839257" />
+    <state width="1238" height="472" key="GridCell.Tab.0.right" timestamp="1655345839258">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1238" height="472" key="GridCell.Tab.0.right/0.0.1280.752@0.0.1280.752" timestamp="1655345839258" />
+    <state width="1238" height="472" key="GridCell.Tab.1.bottom" timestamp="1655345839256">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1238" height="472" key="GridCell.Tab.1.bottom/0.0.1280.752@0.0.1280.752" timestamp="1655345839256" />
+    <state width="1238" height="472" key="GridCell.Tab.1.center" timestamp="1655345839256">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1238" height="472" key="GridCell.Tab.1.center/0.0.1280.752@0.0.1280.752" timestamp="1655345839256" />
+    <state width="1238" height="472" key="GridCell.Tab.1.left" timestamp="1655345839256">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1238" height="472" key="GridCell.Tab.1.left/0.0.1280.752@0.0.1280.752" timestamp="1655345839256" />
+    <state width="1238" height="472" key="GridCell.Tab.1.right" timestamp="1655345839256">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1238" height="472" key="GridCell.Tab.1.right/0.0.1280.752@0.0.1280.752" timestamp="1655345839256" />
+    <state width="1238" height="222" key="GridCell.Tab.2.bottom" timestamp="1655304649625">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1238" height="222" key="GridCell.Tab.2.bottom/0.0.1280.752@0.0.1280.752" timestamp="1655304649625" />
+    <state width="1238" height="222" key="GridCell.Tab.2.center" timestamp="1655304649625">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1238" height="222" key="GridCell.Tab.2.center/0.0.1280.752@0.0.1280.752" timestamp="1655304649625" />
+    <state width="1238" height="222" key="GridCell.Tab.2.left" timestamp="1655304649625">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1238" height="222" key="GridCell.Tab.2.left/0.0.1280.752@0.0.1280.752" timestamp="1655304649625" />
+    <state width="1238" height="222" key="GridCell.Tab.2.right" timestamp="1655304649625">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1238" height="222" key="GridCell.Tab.2.right/0.0.1280.752@0.0.1280.752" timestamp="1655304649625" />
+    <state x="62" y="105" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1655303233709">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="62" y="105" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.752@0.0.1280.752" timestamp="1655303233709" />
+    <state width="78" height="34" key="documentation.popup.size" timestamp="1655283558110">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="78" height="34" key="documentation.popup.size/0.0.1280.752@0.0.1280.752" timestamp="1655283558110" />
+    <state x="14" y="75" key="new project wizard" timestamp="1654672115035">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="14" y="75" key="new project wizard/0.0.1280.752@0.0.1280.752" timestamp="1654672115035" />
+    <state x="299" y="170" key="run.anything.popup" timestamp="1654613624419">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="299" y="170" key="run.anything.popup/0.0.1280.752@0.0.1280.752" timestamp="1654613624419" />
+    <state x="327" y="98" width="672" height="678" key="search.everywhere.popup" timestamp="1655292436086">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="327" y="98" width="672" height="678" key="search.everywhere.popup/0.0.1280.752@0.0.1280.752" timestamp="1655292436086" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/org/springframework/cloud/spring-cloud-stream/3.0.9.RELEASE/spring-cloud-stream-3.0.9.RELEASE-sources.jar!/org/springframework/cloud/stream/binding/StreamListenerAnnotationBeanPostProcessor.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/org/springframework/cloud/spring-cloud-stream/3.0.9.RELEASE/spring-cloud-stream-3.0.9.RELEASE-sources.jar!/org/springframework/cloud/stream/binding/StreamListenerAnnotationBeanPostProcessor.java</url>
+          <line>144</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/org/springframework/cloud/spring-cloud-stream/3.0.9.RELEASE/spring-cloud-stream-3.0.9.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java</url>
+          <line>207</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/org/springframework/spring-context/5.2.12.RELEASE/spring-context-5.2.12.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java</url>
+          <line>522</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/org/springframework/spring-context/5.2.12.RELEASE/spring-context-5.2.12.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java</url>
+          <line>867</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/org/springframework/spring-context/5.2.12.RELEASE/spring-context-5.2.12.RELEASE-sources.jar!/org/springframework/context/support/PostProcessorRegistrationDelegate.java</url>
+          <line>205</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/org/springframework/spring-beans/5.2.12.RELEASE/spring-beans-5.2.12.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java</url>
+          <line>429</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/org/springframework/spring-context/5.2.12.RELEASE/spring-context-5.2.12.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java</url>
+          <line>878</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/org/springframework/spring-beans/5.2.12.RELEASE/spring-beans-5.2.12.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java</url>
+          <line>873</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/org/springframework/spring-beans/5.2.12.RELEASE/spring-beans-5.2.12.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java</url>
+          <line>874</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/org/springframework/cloud/spring-cloud-stream/3.0.9.RELEASE/spring-cloud-stream-3.0.9.RELEASE-sources.jar!/org/springframework/cloud/stream/binding/DispatchingStreamListenerMessageHandler.java</url>
+          <line>100</line>
+          <properties class="org.springframework.cloud.stream.binding.DispatchingStreamListenerMessageHandler" method="findMatchingHandlers">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/org/springframework/cloud/spring-cloud-stream/3.0.9.RELEASE/spring-cloud-stream-3.0.9.RELEASE-sources.jar!/org/springframework/cloud/stream/config/SpelExpressionConverterConfiguration.java</url>
+          <line>88</line>
+          <properties class="org.springframework.cloud.stream.config.SpelExpressionConverterConfiguration.SpelConverter" method="convert">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/org/springframework/spring-web/5.2.12.RELEASE/spring-web-5.2.12.RELEASE-sources.jar!/org/springframework/http/converter/StringHttpMessageConverter.java</url>
+          <line>93</line>
+          <properties class="org.springframework.http.converter.StringHttpMessageConverter" method="readInternal">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/org/springframework/spring-web/5.2.12.RELEASE/spring-web-5.2.12.RELEASE-sources.jar!/org/springframework/http/converter/StringHttpMessageConverter.java</url>
+          <line>99</line>
+          <properties class="org.springframework.http.converter.StringHttpMessageConverter" method="getContentLength">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/org/springframework/spring-web/5.2.12.RELEASE/spring-web-5.2.12.RELEASE-sources.jar!/org/springframework/http/converter/ObjectToStringHttpMessageConverter.java</url>
+          <line>64</line>
+          <properties class="org.springframework.http.converter.ObjectToStringHttpMessageConverter" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/org/springframework/spring-web/5.2.12.RELEASE/spring-web-5.2.12.RELEASE-sources.jar!/org/springframework/http/converter/ObjectToStringHttpMessageConverter.java</url>
+          <line>73</line>
+          <properties class="org.springframework.http.converter.ObjectToStringHttpMessageConverter" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/org/springframework/spring-context/5.2.12.RELEASE/spring-context-5.2.12.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java</url>
+          <line>646</line>
+          <properties class="org.springframework.context.support.AbstractApplicationContext" method="prepareBeanFactory">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint type="java-field">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/org/springframework/spring-web/5.2.12.RELEASE/spring-web-5.2.12.RELEASE-sources.jar!/org/springframework/web/bind/support/ConfigurableWebBindingInitializer.java</url>
+          <line>53</line>
+          <properties field="validator" class="org.springframework.web.bind.support.ConfigurableWebBindingInitializer" />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint type="java-field">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/org/springframework/spring-web/5.2.12.RELEASE/spring-web-5.2.12.RELEASE-sources.jar!/org/springframework/http/converter/ObjectToStringHttpMessageConverter.java</url>
+          <line>55</line>
+          <properties field="stringHttpMessageConverter" class="org.springframework.http.converter.ObjectToStringHttpMessageConverter" />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="beanNames" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

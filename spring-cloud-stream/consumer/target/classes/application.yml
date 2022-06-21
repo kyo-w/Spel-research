@@ -1,0 +1,43 @@
+server:
+  port: 7086
+
+spring:
+  application:
+    name: spring-cloud-stream-consumer
+  cloud:
+    stream:
+      # 绑定mq信息，这里我们绑定的是rabbitmq
+      binders:
+        # 给这个binder起个名字
+        spring-clould-stream-binder:
+          # mq的类型，如果是kafka的话就是kafka
+          type: rabbit
+          # 配置mq的信息
+          environment:
+            spring:
+              rabbitmq:
+                host: 192.168.2.88
+                port: 5672
+                username: admin
+                password: 123
+      # 这里就是将通道与binder进行绑定
+      bindings:
+        # 定义output，因为我们是消息生产者，需要将消息写到channel中
+        input:
+          # 使用消息队列名字，在kafka就是topic的名字，然后rabbitmq的话就是Exchange 的名字
+          destination: springCloudStreamStudyTopic
+          # 传输内容的格式，也就是消息的格式，如果是json的话 application/json
+          content-type: text/plain
+          # 绑定的binder
+          binder: spring-clould-stream-binder
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:9999/eureka,http://127.0.0.1:9998/eureka
+    fetch-registry: true
+    register-with-eureka: true
+  instance:
+    prefer-ip-address: true   # 使用ip注册
+    #自定义实例显示格式,添加版本号
+    instance-id: ${spring.cloud.client.ip-address}:${spring.application.name}:${server.port}:@project.version@

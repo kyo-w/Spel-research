@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3454cc77-6734-4fea-810d-886d58ad9d3b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\javaWork\openrepository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../javaWork/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\javaWork\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2A8tLwFpBi8HVLRuxMg7SMhV1Sd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8 (5)" />
+    <property name="last_opened_file_path" value="E:/springCore" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.2635838" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TurbineApplication">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DashboardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.dashboard.DashboardApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="registry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.registry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.registry.RegistryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="servicea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.servicea.ServiceaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServicebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="serviceb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.serviceb.ServicebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurbineApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="turbine" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.turbine.TurbineApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.RegistryApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3454cc77-6734-4fea-810d-886d58ad9d3b" name="Default Changelist" comment="" />
+      <created>1654402988191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654402988191</updated>
+      <workItem from="1654402991702" duration="7769000" />
+      <workItem from="1654436324075" duration="29658000" />
+      <workItem from="1654525918980" duration="8842000" />
+      <workItem from="1654613330042" duration="914000" />
+      <workItem from="1654671984708" duration="14000" />
+      <workItem from="1654757226748" duration="2644000" />
+      <workItem from="1655277732070" duration="836000" />
+      <workItem from="1655348693038" duration="283000" />
+      <workItem from="1655789100817" duration="297000" />
+      <workItem from="1655790978307" duration="1670000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-method">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/org/springframework/cloud/spring-cloud-netflix-turbine/2.2.6.RELEASE/spring-cloud-netflix-turbine-2.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/turbine/CommonsInstanceDiscovery.java</url>
+          <line>73</line>
+          <properties class="org.springframework.cloud.netflix.turbine.CommonsInstanceDiscovery">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/org/springframework/cloud/spring-cloud-netflix-turbine/2.2.6.RELEASE/spring-cloud-netflix-turbine-2.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/turbine/TurbineHttpConfiguration.java</url>
+          <line>104</line>
+          <properties class="org.springframework.cloud.netflix.turbine.TurbineHttpConfiguration.EurekaTurbineConfiguration">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/org/springframework/cloud/spring-cloud-netflix-turbine/2.2.6.RELEASE/spring-cloud-netflix-turbine-2.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/turbine/TurbineHttpConfiguration.java</url>
+          <line>117</line>
+          <properties class="org.springframework.cloud.netflix.turbine.TurbineHttpConfiguration.DiscoveryClientTurbineConfiguration">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/org/springframework/cloud/spring-cloud-netflix-turbine/2.2.6.RELEASE/spring-cloud-netflix-turbine-2.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/turbine/CommonsInstanceDiscovery.java</url>
+          <line>224</line>
+          <properties class="org.springframework.cloud.netflix.turbine.CommonsInstanceDiscovery">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/org/springframework/cloud/spring-cloud-netflix-turbine/2.2.6.RELEASE/spring-cloud-netflix-turbine-2.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/turbine/TurbineHttpConfiguration.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/com/netflix/turbine/turbine-core/1.0.0/turbine-core-1.0.0-sources.jar!/com/netflix/turbine/streaming/servlet/TurbineStreamServlet.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/com/netflix/turbine/turbine-core/1.0.0/turbine-core-1.0.0-sources.jar!/com/netflix/turbine/streaming/servlet/TurbineStreamServlet.java</url>
+          <line>208</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/org/springframework/cloud/spring-cloud-netflix-turbine/2.2.6.RELEASE/spring-cloud-netflix-turbine-2.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/turbine/TurbineController.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/com/netflix/archaius/archaius-core/0.7.6/archaius-core-0.7.6-sources.jar!/com/netflix/config/DynamicPropertyFactory.java</url>
+          <line>276</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/com/netflix/turbine/turbine-core/1.0.0/turbine-core-1.0.0-sources.jar!/com/netflix/turbine/discovery/FileBasedInstanceDiscovery.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/JavaWork/openrepository/org/springframework/cloud/spring-cloud-netflix-turbine/2.2.6.RELEASE/spring-cloud-netflix-turbine-2.2.6.RELEASE.jar!/org/springframework/cloud/netflix/turbine/CommonsInstanceDiscovery.class</url>
+          <line>163</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint type="java-field">
+          <url>jar://$PROJECT_DIR$/../../javaWork/openrepository/org/springframework/cloud/spring-cloud-netflix-turbine/2.2.6.RELEASE/spring-cloud-netflix-turbine-2.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/turbine/TurbineProperties.java</url>
+          <line>32</line>
+          <properties field="clusterNameExpression" class="org.springframework.cloud.netflix.turbine.TurbineProperties" />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

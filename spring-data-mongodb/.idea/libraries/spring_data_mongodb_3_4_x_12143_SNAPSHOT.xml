@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-data-mongodb-3.4.x-12143-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../javaWork/openrepository/spring-data-mongodb-3.4.x-12143-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
